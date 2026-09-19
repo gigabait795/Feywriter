@@ -208,4 +208,4 @@ FeyWriter is available as a full free version with all features and updates incl
 Don't wait! Download FeyWriter free today to experience the full power of optical disc burning at your fingertips!
 
 ---
-**Last updated:** 2026-09-18 21:32:32 UTC
+**Last updated:** 2026-09-19 00:02:59 UTC
